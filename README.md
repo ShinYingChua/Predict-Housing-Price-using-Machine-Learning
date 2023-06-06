@@ -33,5 +33,7 @@ The dataset contains 13 features and it is provided by deepakshi_mahajan.
 
 ## 5) Evaluation of ML Models
 Linear Regression Model gives better accuracy as the mean absolute error is lower.
+<img width="551" alt="image" src="https://github.com/ShinYingChua/Predict-Housing-Price-using-Machine-Learning/assets/101923627/37add8fe-10c5-4e9c-90a4-89c5910f2552">
+
 
 
