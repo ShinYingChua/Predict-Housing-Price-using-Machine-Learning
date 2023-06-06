@@ -19,3 +19,19 @@ The dataset contains 13 features and it is provided by deepakshi_mahajan.
 
 ## 3) Choices made in pipeline based on findings
 - Data cleaning is required as the data is dirty
+
+## 4) Choice of ML models
+- Linear Regression Model
+    - Supervised machine learning algorithm
+    - A linear model that quantitatively relates to house prices with variables
+- Random Forest Regression Model
+    - Supervised machine learning algorithm
+    - Combine mutiple decision trees to make decision
+    - It can handle a large number of input features and automatically select the most relevant ones
+    - It is robust to outliers and noisy data
+    - It provides estimates of feature importance, allowing interpretation of the model.
+
+## 5) Evaluation of ML Models
+Linear Regression Model gives better accuracy as the mean absolute error is lower.
+
+
